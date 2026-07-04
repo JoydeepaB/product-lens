@@ -1,0 +1,1994 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "reviewer": "Priya K.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-11"
+  },
+  {
+    "id": 2,
+    "product_id": 1,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-06-07"
+  },
+  {
+    "id": 3,
+    "product_id": 1,
+    "reviewer": "Amit V.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 4,
+    "product_id": 1,
+    "reviewer": "Kavya H.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-06"
+  },
+  {
+    "id": 5,
+    "product_id": 1,
+    "reviewer": "Priya K.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-06-10"
+  },
+  {
+    "id": 6,
+    "product_id": 2,
+    "reviewer": "Vikram T.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 7,
+    "product_id": 2,
+    "reviewer": "Neha J.",
+    "rating": 4,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-06"
+  },
+  {
+    "id": 8,
+    "product_id": 2,
+    "reviewer": "Karan D.",
+    "rating": 4,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-07"
+  },
+  {
+    "id": 9,
+    "product_id": 2,
+    "reviewer": "Karan D.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-06-09"
+  },
+  {
+    "id": 10,
+    "product_id": 2,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 11,
+    "product_id": 2,
+    "reviewer": "Divya P.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-06-14"
+  },
+  {
+    "id": 12,
+    "product_id": 2,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Good product nice",
+    "date": "2026-05-20"
+  },
+  {
+    "id": 13,
+    "product_id": 2,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-05-20"
+  },
+  {
+    "id": 14,
+    "product_id": 2,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Nice product",
+    "date": "2026-05-20"
+  },
+  {
+    "id": 15,
+    "product_id": 2,
+    "reviewer": "Kavya H.",
+    "rating": 5,
+    "text": "Good",
+    "date": "2026-05-20"
+  },
+  {
+    "id": 16,
+    "product_id": 2,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Good",
+    "date": "2026-05-20"
+  },
+  {
+    "id": 17,
+    "product_id": 3,
+    "reviewer": "Pooja L.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-22"
+  },
+  {
+    "id": 18,
+    "product_id": 3,
+    "reviewer": "Amit V.",
+    "rating": 4,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 19,
+    "product_id": 3,
+    "reviewer": "Amit V.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-14"
+  },
+  {
+    "id": 20,
+    "product_id": 3,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-19"
+  },
+  {
+    "id": 21,
+    "product_id": 3,
+    "reviewer": "Manish C.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 22,
+    "product_id": 3,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 23,
+    "product_id": 4,
+    "reviewer": "Ritu W.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-06-25"
+  },
+  {
+    "id": 24,
+    "product_id": 4,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 25,
+    "product_id": 4,
+    "reviewer": "Rohan G.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-25"
+  },
+  {
+    "id": 26,
+    "product_id": 4,
+    "reviewer": "Vikram T.",
+    "rating": 2,
+    "text": "Size/fit was off compared to the description, had to return it.",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 27,
+    "product_id": 4,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Awesome product awesome price buy buy buy limited stock hurry",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 28,
+    "product_id": 4,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 29,
+    "product_id": 4,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Best product ever!!! Amazing amazing amazing must buy now!!!",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 30,
+    "product_id": 5,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 31,
+    "product_id": 5,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 32,
+    "product_id": 5,
+    "reviewer": "Amit V.",
+    "rating": 4,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 33,
+    "product_id": 5,
+    "reviewer": "Sneha R.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 34,
+    "product_id": 5,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 35,
+    "product_id": 5,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 36,
+    "product_id": 5,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Best product ever!!! Amazing amazing amazing must buy now!!!",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 37,
+    "product_id": 6,
+    "reviewer": "Pooja L.",
+    "rating": 2,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-05-23"
+  },
+  {
+    "id": 38,
+    "product_id": 6,
+    "reviewer": "Ritu W.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 39,
+    "product_id": 6,
+    "reviewer": "Arjun B.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 40,
+    "product_id": 6,
+    "reviewer": "Rahul S.",
+    "rating": 1,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 41,
+    "product_id": 6,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 42,
+    "product_id": 6,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Best product ever!!! Amazing amazing amazing must buy now!!!",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 43,
+    "product_id": 6,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 44,
+    "product_id": 6,
+    "reviewer": "Pooja L.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 45,
+    "product_id": 7,
+    "reviewer": "Divya P.",
+    "rating": 2,
+    "text": "It's okay but not worth the price, there are better alternatives available.",
+    "date": "2026-06-10"
+  },
+  {
+    "id": 46,
+    "product_id": 7,
+    "reviewer": "Sanjay N.",
+    "rating": 1,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-06-22"
+  },
+  {
+    "id": 47,
+    "product_id": 7,
+    "reviewer": "Ritu W.",
+    "rating": 1,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 48,
+    "product_id": 7,
+    "reviewer": "Rohan G.",
+    "rating": 4,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 49,
+    "product_id": 7,
+    "reviewer": "Pooja L.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-29"
+  },
+  {
+    "id": 50,
+    "product_id": 8,
+    "reviewer": "Karan D.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-31"
+  },
+  {
+    "id": 51,
+    "product_id": 8,
+    "reviewer": "Pooja L.",
+    "rating": 4,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-31"
+  },
+  {
+    "id": 52,
+    "product_id": 8,
+    "reviewer": "Karan D.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": 53,
+    "product_id": 8,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 54,
+    "product_id": 8,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 55,
+    "product_id": 9,
+    "reviewer": "Manish C.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 56,
+    "product_id": 9,
+    "reviewer": "Ritu W.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-06-09"
+  },
+  {
+    "id": 57,
+    "product_id": 9,
+    "reviewer": "Vikram T.",
+    "rating": 1,
+    "text": "Size/fit was off compared to the description, had to return it.",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 58,
+    "product_id": 9,
+    "reviewer": "Karan D.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-28"
+  },
+  {
+    "id": 59,
+    "product_id": 10,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-06-02"
+  },
+  {
+    "id": 60,
+    "product_id": 10,
+    "reviewer": "Kavya H.",
+    "rating": 2,
+    "text": "Size/fit was off compared to the description, had to return it.",
+    "date": "2026-06-04"
+  },
+  {
+    "id": 61,
+    "product_id": 10,
+    "reviewer": "Pooja L.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-06-17"
+  },
+  {
+    "id": 62,
+    "product_id": 10,
+    "reviewer": "Kavya H.",
+    "rating": 3,
+    "text": "It works, though I think there are similar products for slightly less.",
+    "date": "2026-06-07"
+  },
+  {
+    "id": 63,
+    "product_id": 11,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 64,
+    "product_id": 11,
+    "reviewer": "Ritu W.",
+    "rating": 1,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 65,
+    "product_id": 11,
+    "reviewer": "Ritu W.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-21"
+  },
+  {
+    "id": 66,
+    "product_id": 11,
+    "reviewer": "Karan D.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 67,
+    "product_id": 11,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Nice product",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 68,
+    "product_id": 11,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 69,
+    "product_id": 11,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Good product nice",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 70,
+    "product_id": 12,
+    "reviewer": "Rohan G.",
+    "rating": 4,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-06-14"
+  },
+  {
+    "id": 71,
+    "product_id": 12,
+    "reviewer": "Manish C.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 72,
+    "product_id": 12,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-29"
+  },
+  {
+    "id": 73,
+    "product_id": 12,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 74,
+    "product_id": 12,
+    "reviewer": "Pooja L.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 75,
+    "product_id": 12,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Awesome product awesome price buy buy buy limited stock hurry",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 76,
+    "product_id": 12,
+    "reviewer": "Ritu W.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 77,
+    "product_id": 12,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 78,
+    "product_id": 12,
+    "reviewer": "Kavya H.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 79,
+    "product_id": 13,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-21"
+  },
+  {
+    "id": 80,
+    "product_id": 13,
+    "reviewer": "Manish C.",
+    "rating": 2,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 81,
+    "product_id": 13,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-05-22"
+  },
+  {
+    "id": 82,
+    "product_id": 13,
+    "reviewer": "Divya P.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 83,
+    "product_id": 13,
+    "reviewer": "Rohan G.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-06"
+  },
+  {
+    "id": 84,
+    "product_id": 13,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 85,
+    "product_id": 14,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-06"
+  },
+  {
+    "id": 86,
+    "product_id": 14,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 87,
+    "product_id": 14,
+    "reviewer": "Rohan G.",
+    "rating": 3,
+    "text": "It works, though I think there are similar products for slightly less.",
+    "date": "2026-05-06"
+  },
+  {
+    "id": 88,
+    "product_id": 14,
+    "reviewer": "Sneha R.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 89,
+    "product_id": 14,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 90,
+    "product_id": 14,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 91,
+    "product_id": 14,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 92,
+    "product_id": 14,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 93,
+    "product_id": 15,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-29"
+  },
+  {
+    "id": 94,
+    "product_id": 15,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 95,
+    "product_id": 15,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 96,
+    "product_id": 15,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-06-04"
+  },
+  {
+    "id": 97,
+    "product_id": 15,
+    "reviewer": "Karan D.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-14"
+  },
+  {
+    "id": 98,
+    "product_id": 16,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-05-23"
+  },
+  {
+    "id": 99,
+    "product_id": 16,
+    "reviewer": "Rohan G.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 100,
+    "product_id": 16,
+    "reviewer": "Sanjay N.",
+    "rating": 4,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-12"
+  },
+  {
+    "id": 101,
+    "product_id": 16,
+    "reviewer": "Divya P.",
+    "rating": 3,
+    "text": "It works, though I think there are similar products for slightly less.",
+    "date": "2026-05-19"
+  },
+  {
+    "id": 102,
+    "product_id": 16,
+    "reviewer": "Anjali M.",
+    "rating": 2,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 103,
+    "product_id": 16,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Osm product",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 104,
+    "product_id": 16,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Good",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 105,
+    "product_id": 16,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 106,
+    "product_id": 16,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 107,
+    "product_id": 17,
+    "reviewer": "Rohan G.",
+    "rating": 4,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-31"
+  },
+  {
+    "id": 108,
+    "product_id": 17,
+    "reviewer": "Rahul S.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-06-02"
+  },
+  {
+    "id": 109,
+    "product_id": 17,
+    "reviewer": "Priya K.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 110,
+    "product_id": 17,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-06-10"
+  },
+  {
+    "id": 111,
+    "product_id": 17,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Good product nice",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 112,
+    "product_id": 17,
+    "reviewer": "Ritu W.",
+    "rating": 5,
+    "text": "Good",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 113,
+    "product_id": 17,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Good product nice",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 114,
+    "product_id": 18,
+    "reviewer": "Rahul S.",
+    "rating": 4,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 115,
+    "product_id": 18,
+    "reviewer": "Divya P.",
+    "rating": 3,
+    "text": "It works, though I think there are similar products for slightly less.",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 116,
+    "product_id": 18,
+    "reviewer": "Pooja L.",
+    "rating": 4,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-10"
+  },
+  {
+    "id": 117,
+    "product_id": 18,
+    "reviewer": "Manish C.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 118,
+    "product_id": 19,
+    "reviewer": "Rahul S.",
+    "rating": 2,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 119,
+    "product_id": 19,
+    "reviewer": "Amit V.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-06-12"
+  },
+  {
+    "id": 120,
+    "product_id": 19,
+    "reviewer": "Amit V.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 121,
+    "product_id": 20,
+    "reviewer": "Manish C.",
+    "rating": 1,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-06-17"
+  },
+  {
+    "id": 122,
+    "product_id": 20,
+    "reviewer": "Neha J.",
+    "rating": 4,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-31"
+  },
+  {
+    "id": 123,
+    "product_id": 20,
+    "reviewer": "Vikram T.",
+    "rating": 1,
+    "text": "It's okay but not worth the price, there are better alternatives available.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 124,
+    "product_id": 20,
+    "reviewer": "Ritu W.",
+    "rating": 4,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 125,
+    "product_id": 20,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Awesome product awesome price buy buy buy limited stock hurry",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 126,
+    "product_id": 20,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 127,
+    "product_id": 20,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Awesome product awesome price buy buy buy limited stock hurry",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 128,
+    "product_id": 20,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Awesome product awesome price buy buy buy limited stock hurry",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 129,
+    "product_id": 20,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 130,
+    "product_id": 21,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 131,
+    "product_id": 21,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": 132,
+    "product_id": 21,
+    "reviewer": "Amit V.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 133,
+    "product_id": 21,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 134,
+    "product_id": 22,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 135,
+    "product_id": 22,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 136,
+    "product_id": 22,
+    "reviewer": "Arjun B.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": 137,
+    "product_id": 22,
+    "reviewer": "Arjun B.",
+    "rating": 4,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-21"
+  },
+  {
+    "id": 138,
+    "product_id": 22,
+    "reviewer": "Rahul S.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 139,
+    "product_id": 23,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": 140,
+    "product_id": 23,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-06-24"
+  },
+  {
+    "id": 141,
+    "product_id": 23,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-10"
+  },
+  {
+    "id": 142,
+    "product_id": 23,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-06-02"
+  },
+  {
+    "id": 143,
+    "product_id": 23,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 144,
+    "product_id": 24,
+    "reviewer": "Vikram T.",
+    "rating": 2,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-29"
+  },
+  {
+    "id": 145,
+    "product_id": 24,
+    "reviewer": "Vikram T.",
+    "rating": 2,
+    "text": "Size/fit was off compared to the description, had to return it.",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 146,
+    "product_id": 24,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-19"
+  },
+  {
+    "id": 147,
+    "product_id": 24,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-06-11"
+  },
+  {
+    "id": 148,
+    "product_id": 24,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Good",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 149,
+    "product_id": 24,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Nice product",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 150,
+    "product_id": 24,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Osm product",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 151,
+    "product_id": 24,
+    "reviewer": "Ritu W.",
+    "rating": 5,
+    "text": "Osm product",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 152,
+    "product_id": 24,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Very nice product good quality",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 153,
+    "product_id": 25,
+    "reviewer": "Vikram T.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-28"
+  },
+  {
+    "id": 154,
+    "product_id": 25,
+    "reviewer": "Arjun B.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 155,
+    "product_id": 25,
+    "reviewer": "Rohan G.",
+    "rating": 4,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-24"
+  },
+  {
+    "id": 156,
+    "product_id": 25,
+    "reviewer": "Kavya H.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 157,
+    "product_id": 25,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 158,
+    "product_id": 26,
+    "reviewer": "Karan D.",
+    "rating": 4,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-06-13"
+  },
+  {
+    "id": 159,
+    "product_id": 26,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 160,
+    "product_id": 26,
+    "reviewer": "Priya K.",
+    "rating": 4,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 161,
+    "product_id": 26,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 162,
+    "product_id": 26,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 163,
+    "product_id": 26,
+    "reviewer": "Manish C.",
+    "rating": 4,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-22"
+  },
+  {
+    "id": 164,
+    "product_id": 26,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 165,
+    "product_id": 26,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 166,
+    "product_id": 26,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 167,
+    "product_id": 27,
+    "reviewer": "Neha J.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 168,
+    "product_id": 27,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 169,
+    "product_id": 27,
+    "reviewer": "Neha J.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-06-04"
+  },
+  {
+    "id": 170,
+    "product_id": 27,
+    "reviewer": "Divya P.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-21"
+  },
+  {
+    "id": 171,
+    "product_id": 27,
+    "reviewer": "Kavya H.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 172,
+    "product_id": 27,
+    "reviewer": "Karan D.",
+    "rating": 1,
+    "text": "Size/fit was off compared to the description, had to return it.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 173,
+    "product_id": 28,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-24"
+  },
+  {
+    "id": 174,
+    "product_id": 28,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-24"
+  },
+  {
+    "id": 175,
+    "product_id": 28,
+    "reviewer": "Ritu W.",
+    "rating": 4,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 176,
+    "product_id": 28,
+    "reviewer": "Karan D.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 177,
+    "product_id": 28,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 178,
+    "product_id": 28,
+    "reviewer": "Ritu W.",
+    "rating": 4,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 179,
+    "product_id": 29,
+    "reviewer": "Priya K.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 180,
+    "product_id": 29,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-05-04"
+  },
+  {
+    "id": 181,
+    "product_id": 29,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-06-16"
+  },
+  {
+    "id": 182,
+    "product_id": 30,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 183,
+    "product_id": 30,
+    "reviewer": "Manish C.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-05-22"
+  },
+  {
+    "id": 184,
+    "product_id": 30,
+    "reviewer": "Amit V.",
+    "rating": 4,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-05-18"
+  },
+  {
+    "id": 185,
+    "product_id": 30,
+    "reviewer": "Pooja L.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": 186,
+    "product_id": 31,
+    "reviewer": "Priya K.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-06"
+  },
+  {
+    "id": 187,
+    "product_id": 31,
+    "reviewer": "Manish C.",
+    "rating": 2,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-06-04"
+  },
+  {
+    "id": 188,
+    "product_id": 31,
+    "reviewer": "Kavya H.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 189,
+    "product_id": 31,
+    "reviewer": "Priya K.",
+    "rating": 4,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": 190,
+    "product_id": 31,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 191,
+    "product_id": 32,
+    "reviewer": "Arjun B.",
+    "rating": 4,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 192,
+    "product_id": 32,
+    "reviewer": "Amit V.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 193,
+    "product_id": 32,
+    "reviewer": "Manish C.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-31"
+  },
+  {
+    "id": 194,
+    "product_id": 32,
+    "reviewer": "Rohan G.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 195,
+    "product_id": 32,
+    "reviewer": "Ritu W.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 196,
+    "product_id": 32,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Osm product",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 197,
+    "product_id": 32,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 198,
+    "product_id": 32,
+    "reviewer": "Arjun B.",
+    "rating": 5,
+    "text": "Very nice product good quality",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 199,
+    "product_id": 32,
+    "reviewer": "Pooja L.",
+    "rating": 5,
+    "text": "Osm product",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 200,
+    "product_id": 32,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Osm product",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 201,
+    "product_id": 33,
+    "reviewer": "Amit V.",
+    "rating": 4,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-05-27"
+  },
+  {
+    "id": 202,
+    "product_id": 33,
+    "reviewer": "Kavya H.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 203,
+    "product_id": 33,
+    "reviewer": "Amit V.",
+    "rating": 3,
+    "text": "Product is fine, nothing exceptional but does what it's supposed to.",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 204,
+    "product_id": 33,
+    "reviewer": "Manish C.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 205,
+    "product_id": 33,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Good product nice",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 206,
+    "product_id": 33,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 207,
+    "product_id": 33,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 208,
+    "product_id": 33,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Nice",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 209,
+    "product_id": 34,
+    "reviewer": "Anjali M.",
+    "rating": 2,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 210,
+    "product_id": 34,
+    "reviewer": "Karan D.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-07"
+  },
+  {
+    "id": 211,
+    "product_id": 34,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Not bad at all, comfortable to use and looks premium for the price point.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 212,
+    "product_id": 34,
+    "reviewer": "Sneha R.",
+    "rating": 2,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 213,
+    "product_id": 34,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-24"
+  },
+  {
+    "id": 214,
+    "product_id": 35,
+    "reviewer": "Pooja L.",
+    "rating": 4,
+    "text": "Packaging was solid and product matches the description. Satisfied overall.",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 215,
+    "product_id": 35,
+    "reviewer": "Rohan G.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-06-08"
+  },
+  {
+    "id": 216,
+    "product_id": 35,
+    "reviewer": "Pooja L.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-06-10"
+  },
+  {
+    "id": 217,
+    "product_id": 35,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 218,
+    "product_id": 35,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 219,
+    "product_id": 35,
+    "reviewer": "Kavya H.",
+    "rating": 5,
+    "text": "Superb quality superb price superb delivery best seller must buy",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 220,
+    "product_id": 35,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 221,
+    "product_id": 36,
+    "reviewer": "Ritu W.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-05"
+  },
+  {
+    "id": 222,
+    "product_id": 36,
+    "reviewer": "Vikram T.",
+    "rating": 5,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-06-12"
+  },
+  {
+    "id": 223,
+    "product_id": 36,
+    "reviewer": "Rohan G.",
+    "rating": 1,
+    "text": "Product stopped working properly after a week of normal use, disappointed.",
+    "date": "2026-05-26"
+  },
+  {
+    "id": 224,
+    "product_id": 36,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-27"
+  },
+  {
+    "id": 225,
+    "product_id": 36,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-27"
+  },
+  {
+    "id": 226,
+    "product_id": 37,
+    "reviewer": "Rahul S.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 227,
+    "product_id": 37,
+    "reviewer": "Amit V.",
+    "rating": 5,
+    "text": "Value for money product. Does the job well, would recommend to others.",
+    "date": "2026-05-08"
+  },
+  {
+    "id": 228,
+    "product_id": 37,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-06-19"
+  },
+  {
+    "id": 229,
+    "product_id": 37,
+    "reviewer": "Sanjay N.",
+    "rating": 4,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-11"
+  },
+  {
+    "id": 230,
+    "product_id": 37,
+    "reviewer": "Pooja L.",
+    "rating": 4,
+    "text": "Works well for daily use, battery/performance is better than I expected.",
+    "date": "2026-05-10"
+  },
+  {
+    "id": 231,
+    "product_id": 37,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Awesome product awesome price buy buy buy limited stock hurry",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 232,
+    "product_id": 37,
+    "reviewer": "Ritu W.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 233,
+    "product_id": 37,
+    "reviewer": "Neha J.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 234,
+    "product_id": 38,
+    "reviewer": "Priya K.",
+    "rating": 3,
+    "text": "Average experience, matches most of the description provided.",
+    "date": "2026-05-21"
+  },
+  {
+    "id": 235,
+    "product_id": 38,
+    "reviewer": "Anjali M.",
+    "rating": 1,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-06-15"
+  },
+  {
+    "id": 236,
+    "product_id": 38,
+    "reviewer": "Karan D.",
+    "rating": 2,
+    "text": "Quality is average, expected better given the price and brand claims.",
+    "date": "2026-06-09"
+  },
+  {
+    "id": 237,
+    "product_id": 39,
+    "reviewer": "Anjali M.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-06-03"
+  },
+  {
+    "id": 238,
+    "product_id": 39,
+    "reviewer": "Karan D.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 239,
+    "product_id": 39,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Really happy with this purchase, works exactly as described and arrived on time.",
+    "date": "2026-05-08"
+  },
+  {
+    "id": 240,
+    "product_id": 39,
+    "reviewer": "Divya P.",
+    "rating": 5,
+    "text": "Decent quality, took a star off because delivery was slightly delayed.",
+    "date": "2026-05-20"
+  },
+  {
+    "id": 241,
+    "product_id": 40,
+    "reviewer": "Rahul S.",
+    "rating": 4,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 242,
+    "product_id": 40,
+    "reviewer": "Manish C.",
+    "rating": 2,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-05-16"
+  },
+  {
+    "id": 243,
+    "product_id": 40,
+    "reviewer": "Ritu W.",
+    "rating": 1,
+    "text": "Delivery took much longer than promised and packaging was damaged.",
+    "date": "2026-06-21"
+  },
+  {
+    "id": 244,
+    "product_id": 40,
+    "reviewer": "Kavya H.",
+    "rating": 4,
+    "text": "Good build quality for the price. Been using it for two weeks, no issues so far.",
+    "date": "2026-05-23"
+  },
+  {
+    "id": 245,
+    "product_id": 40,
+    "reviewer": "Vikram T.",
+    "rating": 4,
+    "text": "Bought this after comparing a few options, glad I chose this one.",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 246,
+    "product_id": 40,
+    "reviewer": "Priya K.",
+    "rating": 5,
+    "text": "Perfect perfect perfect no issues at all totally worth it buy today",
+    "date": "2026-06-16"
+  },
+  {
+    "id": 247,
+    "product_id": 40,
+    "reviewer": "Sanjay N.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-16"
+  },
+  {
+    "id": 248,
+    "product_id": 40,
+    "reviewer": "Rahul S.",
+    "rating": 5,
+    "text": "Best product ever!!! Amazing amazing amazing must buy now!!!",
+    "date": "2026-06-16"
+  },
+  {
+    "id": 249,
+    "product_id": 40,
+    "reviewer": "Sneha R.",
+    "rating": 5,
+    "text": "Excellent excellent excellent 5 star 5 star best in class product buy now",
+    "date": "2026-06-16"
+  }
+]
