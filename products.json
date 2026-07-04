@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Nubex Wireless Bluetooth Earbuds",
+    "category": "Electronics",
+    "description": "Premium Wireless Bluetooth Earbuds by Nubex. Features HD display, sweat resistant design, touch controls and fast charging support. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 2,
+    "name": "Nexura Smartphone 128GB",
+    "category": "Electronics",
+    "description": "Advanced Smartphone 128GB by Nexura. Features water resistant, USB-C port, long battery life and lightweight build. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 3,
+    "name": "Aeroline Laptop 15.6 inch",
+    "category": "Electronics",
+    "description": "Lightweight Laptop 15.6 inch by Aeroline. Features touch controls, long battery life, sweat resistant design and noise isolation. Ideal for everyday use with reliable performance.",
+    "price": 5999
+  },
+  {
+    "id": 4,
+    "name": "Blustar Smartwatch Fitness Tracker",
+    "category": "Electronics",
+    "description": "Lightweight Smartwatch Fitness Tracker by Blustar. Features lightweight build, HD display, long battery life and USB-C port. Ideal for everyday use with reliable performance.",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Blustar Portable Power Bank 20000mAh",
+    "category": "Electronics",
+    "description": "Ergonomic Portable Power Bank 20000mAh by Blustar. Features HD display, Bluetooth 5.3 connectivity, sweat resistant design and USB-C port. Ideal for everyday use with reliable performance.",
+    "price": 1999
+  },
+  {
+    "id": 6,
+    "name": "Nubex Noise Cancelling Headphones",
+    "category": "Electronics",
+    "description": "Advanced Noise Cancelling Headphones by Nubex. Features USB-C port, fast charging support, noise isolation and water resistant. Ideal for everyday use with reliable performance.",
+    "price": 1999
+  },
+  {
+    "id": 7,
+    "name": "Solace 4K Action Camera",
+    "category": "Electronics",
+    "description": "Durable 4K Action Camera by Solace. Features long battery life, lightweight build, fast charging support and sweat resistant design. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 8,
+    "name": "Nexura Gaming Mouse RGB",
+    "category": "Electronics",
+    "description": "Durable Gaming Mouse RGB by Nexura. Features water resistant, noise isolation, sweat resistant design and touch controls. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 9,
+    "name": "Zentro Mechanical Keyboard",
+    "category": "Electronics",
+    "description": "Lightweight Mechanical Keyboard by Zentro. Features HD display, fast charging support, sweat resistant design and USB-C port. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 10,
+    "name": "Blustar Tablet 10 inch",
+    "category": "Electronics",
+    "description": "Durable Tablet 10 inch by Blustar. Features lightweight build, noise isolation, Bluetooth 5.3 connectivity and water resistant. Ideal for everyday use with reliable performance.",
+    "price": 1999
+  },
+  {
+    "id": 11,
+    "name": "Aeroline Cotton Casual T-Shirt",
+    "category": "Fashion",
+    "description": "Durable Cotton Casual T-Shirt by Aeroline. Features machine washable, slim fit design, all-season wear and anti-wrinkle fabric. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 12,
+    "name": "Blustar Slim Fit Denim Jeans",
+    "category": "Fashion",
+    "description": "Durable Slim Fit Denim Jeans by Blustar. Features adjustable straps, all-season wear, comfortable fit and trendy design. Ideal for everyday use with reliable performance.",
+    "price": 299
+  },
+  {
+    "id": 13,
+    "name": "Aeroline Running Shoes",
+    "category": "Fashion",
+    "description": "Premium Running Shoes by Aeroline. Features comfortable fit, trendy design, durable stitching and breathable fabric. Ideal for everyday use with reliable performance.",
+    "price": 999
+  },
+  {
+    "id": 14,
+    "name": "Solace Leather Wallet",
+    "category": "Fashion",
+    "description": "Ergonomic Leather Wallet by Solace. Features all-season wear, sweat-wicking material, trendy design and comfortable fit. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 15,
+    "name": "Corevo Formal Shirt",
+    "category": "Fashion",
+    "description": "Durable Formal Shirt by Corevo. Features slim fit design, all-season wear, durable stitching and comfortable fit. Ideal for everyday use with reliable performance.",
+    "price": 9999
+  },
+  {
+    "id": 16,
+    "name": "Blustar Winter Jacket",
+    "category": "Fashion",
+    "description": "Professional Winter Jacket by Blustar. Features trendy design, comfortable fit, all-season wear and machine washable. Ideal for everyday use with reliable performance.",
+    "price": 5999
+  },
+  {
+    "id": 17,
+    "name": "Optiva Sunglasses UV Protection",
+    "category": "Fashion",
+    "description": "Advanced Sunglasses UV Protection by Optiva. Features breathable fabric, machine washable, slim fit design and comfortable fit. Ideal for everyday use with reliable performance.",
+    "price": 799
+  },
+  {
+    "id": 18,
+    "name": "Blustar Analog Wrist Watch",
+    "category": "Fashion",
+    "description": "Professional Analog Wrist Watch by Blustar. Features machine washable, trendy design, adjustable straps and durable stitching. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 19,
+    "name": "Nexura Backpack Laptop Bag",
+    "category": "Fashion",
+    "description": "Durable Backpack Laptop Bag by Nexura. Features adjustable straps, breathable fabric, machine washable and comfortable fit. Ideal for everyday use with reliable performance.",
+    "price": 5999
+  },
+  {
+    "id": 20,
+    "name": "Vantix Sports Sneakers",
+    "category": "Fashion",
+    "description": "Ergonomic Sports Sneakers by Vantix. Features machine washable, durable stitching, trendy design and anti-wrinkle fabric. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 21,
+    "name": "Zentro Non-stick Cookware Set",
+    "category": "Home",
+    "description": "Durable Non-stick Cookware Set by Zentro. Features eco-friendly material, compact design, energy efficient and rust resistant. Ideal for everyday use with reliable performance.",
+    "price": 1499
+  },
+  {
+    "id": 22,
+    "name": "Nexura LED Desk Lamp",
+    "category": "Home",
+    "description": "Professional LED Desk Lamp by Nexura. Features durable build quality, compact design, space saving and rust resistant. Ideal for everyday use with reliable performance.",
+    "price": 799
+  },
+  {
+    "id": 23,
+    "name": "Nexura Memory Foam Pillow",
+    "category": "Home",
+    "description": "Portable Memory Foam Pillow by Nexura. Features easy to clean, space saving, adjustable settings and modern finish. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 24,
+    "name": "Primeo Air Purifier",
+    "category": "Home",
+    "description": "Durable Air Purifier by Primeo. Features durable build quality, easy to clean, modern finish and quiet operation. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 25,
+    "name": "Nubex Electric Kettle",
+    "category": "Home",
+    "description": "Eco-Friendly Electric Kettle by Nubex. Features energy efficient, eco-friendly material, compact design and modern finish. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 26,
+    "name": "Nexura Vacuum Cleaner",
+    "category": "Home",
+    "description": "Compact Vacuum Cleaner by Nexura. Features quiet operation, eco-friendly material, rust resistant and energy efficient. Ideal for everyday use with reliable performance.",
+    "price": 5999
+  },
+  {
+    "id": 27,
+    "name": "Aeroline Study Table Wooden",
+    "category": "Home",
+    "description": "Durable Study Table Wooden by Aeroline. Features rust resistant, space saving, adjustable settings and quiet operation. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 28,
+    "name": "Nubex Bedsheet Cotton King Size",
+    "category": "Home",
+    "description": "Lightweight Bedsheet Cotton King Size by Nubex. Features durable build quality, energy efficient, space saving and easy to clean. Ideal for everyday use with reliable performance.",
+    "price": 9999
+  },
+  {
+    "id": 29,
+    "name": "Nexura Wall Clock Modern",
+    "category": "Home",
+    "description": "Lightweight Wall Clock Modern by Nexura. Features modern finish, durable build quality, easy to clean and adjustable settings. Ideal for everyday use with reliable performance.",
+    "price": 299
+  },
+  {
+    "id": 30,
+    "name": "Aeroline Storage Organizer Box",
+    "category": "Home",
+    "description": "Advanced Storage Organizer Box by Aeroline. Features easy to clean, space saving, energy efficient and quiet operation. Ideal for everyday use with reliable performance.",
+    "price": 999
+  },
+  {
+    "id": 31,
+    "name": "Vantix Face Wash Neem Extract",
+    "category": "Beauty",
+    "description": "Eco-Friendly Face Wash Neem Extract by Vantix. Features long lasting formula, travel friendly, suitable for all skin types and cruelty free. Ideal for everyday use with reliable performance.",
+    "price": 9999
+  },
+  {
+    "id": 32,
+    "name": "Solace Vitamin C Serum",
+    "category": "Beauty",
+    "description": "Eco-Friendly Vitamin C Serum by Solace. Features long lasting formula, quick absorption, natural ingredients and paraben free. Ideal for everyday use with reliable performance.",
+    "price": 499
+  },
+  {
+    "id": 33,
+    "name": "Nubex Sunscreen SPF 50",
+    "category": "Beauty",
+    "description": "High-Performance Sunscreen SPF 50 by Nubex. Features cruelty free, natural ingredients, travel friendly and long lasting formula. Ideal for everyday use with reliable performance.",
+    "price": 299
+  },
+  {
+    "id": 34,
+    "name": "Nubex Hair Dryer",
+    "category": "Beauty",
+    "description": "Premium Hair Dryer by Nubex. Features natural ingredients, cruelty free, paraben free and quick absorption. Ideal for everyday use with reliable performance.",
+    "price": 999
+  },
+  {
+    "id": 35,
+    "name": "Aeroline Lipstick Matte Finish",
+    "category": "Beauty",
+    "description": "Portable Lipstick Matte Finish by Aeroline. Features quick absorption, suitable for all skin types, natural ingredients and paraben free. Ideal for everyday use with reliable performance.",
+    "price": 1499
+  },
+  {
+    "id": 36,
+    "name": "Optiva Moisturizer Cream",
+    "category": "Beauty",
+    "description": "Lightweight Moisturizer Cream by Optiva. Features paraben free, quick absorption, fragrance free option and dermatologically tested. Ideal for everyday use with reliable performance.",
+    "price": 5999
+  },
+  {
+    "id": 37,
+    "name": "Zentro Shampoo Anti Dandruff",
+    "category": "Beauty",
+    "description": "Advanced Shampoo Anti Dandruff by Zentro. Features long lasting formula, suitable for all skin types, natural ingredients and fragrance free option. Ideal for everyday use with reliable performance.",
+    "price": 3999
+  },
+  {
+    "id": 38,
+    "name": "Aeroline Nail Polish Set",
+    "category": "Beauty",
+    "description": "High-Performance Nail Polish Set by Aeroline. Features dermatologically tested, suitable for all skin types, natural ingredients and fragrance free option. Ideal for everyday use with reliable performance.",
+    "price": 2499
+  },
+  {
+    "id": 39,
+    "name": "Vantix Perfume Eau de Parfum",
+    "category": "Beauty",
+    "description": "Eco-Friendly Perfume Eau de Parfum by Vantix. Features non-greasy texture, natural ingredients, quick absorption and paraben free. Ideal for everyday use with reliable performance.",
+    "price": 999
+  },
+  {
+    "id": 40,
+    "name": "Vantix Face Mask Sheet Pack",
+    "category": "Beauty",
+    "description": "Lightweight Face Mask Sheet Pack by Vantix. Features dermatologically tested, travel friendly, fragrance free option and cruelty free. Ideal for everyday use with reliable performance.",
+    "price": 1999
+  }
+]
