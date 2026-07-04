@@ -1,3 +1,4 @@
+import os
 import json
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -6,7 +7,15 @@ from collections import Counter
 
 
 class ProductLensEngine:
-    def __init__(self, products_path="data/products.json", reviews_path="data/reviews.json"):
+    def __init__(self, products_path=None, reviews_path=None):
+        
+        if products_path is None:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            products_path = os.path.join(base_dir, "data", "products.json")
+        if reviews_path is None:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            reviews_path = os.path.join(base_dir, "data", "reviews.json")
+        
         with open(products_path) as f:
             self.products = json.load(f)
         with open(reviews_path) as f:
@@ -17,7 +26,7 @@ class ProductLensEngine:
 
         self._build_recommender()
 
-    # ---------- Recommendation engine (content-based, TF-IDF + cosine similarity) ----------
+    
     def _build_recommender(self):
         corpus = (self.products_df["name"] + " " + self.products_df["category"] + " " + self.products_df["description"])
         self.vectorizer = TfidfVectorizer(stop_words="english")
