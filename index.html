@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ProductLens - E-Commerce Intelligence</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; }
+        .header { background: #111827; color: #fff; padding: 20px 0; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        .header h1 { margin: 0; font-size: 28px; }
+        .header p { margin: 4px 0 0; color: #9ca3af; }
+        .search-bar { display: flex; gap: 12px; margin: 20px 0; }
+        .search-bar input { flex: 1; padding: 10px; border: 1px solid #d1d5db; border-radius: 4px; }
+        .search-bar button { padding: 10px 20px; background: #111827; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+        .filters { display: flex; gap: 10px; margin: 12px 0; }
+        .filters a, .filters select { padding: 8px 12px; background: #fff; border: 1px solid #d1d5db; border-radius: 4px; text-decoration: none; color: #111827; cursor: pointer; }
+        .filters a.active { background: #111827; color: #fff; }
+        .products { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; margin: 20px 0; }
+        .product-card { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.1); transition: transform 0.2s; }
+        .product-card:hover { transform: translateY(-4px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .product-card a { text-decoration: none; color: inherit; }
+        .product-image { height: 120px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; color: #fff; }
+        .product-info { padding: 12px; }
+        .product-name { font-weight: 600; font-size: 14px; margin: 0; }
+        .product-category { font-size: 12px; color: #6b7280; margin: 4px 0; }
+        .product-price { font-size: 16px; font-weight: 700; color: #111827; margin: 8px 0 0; }
+        .no-results { text-align: center; padding: 40px; color: #6b7280; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>ProductLens</h1>
+            <p>AI-Powered Product Intelligence & Review Analysis</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="search-bar">
+            <form method="get" style="display: flex; flex: 1; gap: 12px;">
+                <input type="text" name="q" placeholder="Search products..." value="{{ search_query }}">
+                <button type="submit">Search</button>
+            </form>
+        </div>
+
+        <div class="filters">
+            <a href="/" {% if not selected_category %}class="active"{% endif %}>All</a>
+            {% for cat in categories %}
+                <a href="/?category={{ cat }}" {% if selected_category == cat %}class="active"{% endif %}>{{ cat }}</a>
+            {% endfor %}
+        </div>
+
+        {% if products %}
+            <div class="products">
+                {% for product in products %}
+                    <div class="product-card">
+                        <a href="/product/{{ product.id }}">
+                            <div class="product-image">{{ product.category[0] }}</div>
+                            <div class="product-info">
+                                <div class="product-name">{{ product.name }}</div>
+                                <div class="product-category">{{ product.category }}</div>
+                                <div class="product-price">₹{{ product.price }}</div>
+                            </div>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="no-results">
+                <p>No products found. Try a different search or category.</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

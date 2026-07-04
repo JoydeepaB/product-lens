@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ product.name }} - ProductLens</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; }
+        .header { background: #111827; color: #fff; padding: 20px 0; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        .header h1 { margin: 0; }
+        .header a { color: #9ca3af; text-decoration: none; }
+        .back-link { display: inline-block; margin: 20px 0 0; color: #2563eb; text-decoration: none; }
+        .product-section { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin: 30px 0; background: #fff; padding: 20px; border-radius: 8px; }
+        .product-image { height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 80px; }
+        .product-info h2 { margin: 0 0 8px; }
+        .product-info p { color: #6b7280; margin: 0 0 16px; }
+        .price { font-size: 32px; font-weight: 700; color: #111827; margin: 16px 0; }
+        .category { display: inline-block; background: #e5e7eb; padding: 4px 8px; border-radius: 4px; font-size: 12px; }
+        .summary { background: #f3f4f6; padding: 16px; border-radius: 8px; margin: 20px 0; }
+        .summary-row { display: flex; justify-content: space-between; margin: 8px 0; }
+        .summary-label { color: #6b7280; }
+        .summary-value { font-weight: 600; }
+        .suspicious-badge { display: inline-block; background: #fee2e2; color: #991b1b; padding: 2px 8px; border-radius: 4px; font-size: 12px; margin-left: 8px; }
+        .recommendations { margin: 30px 0; }
+        .reco-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; margin: 16px 0; }
+        .reco-card { background: #fff; padding: 12px; border-radius: 8px; text-align: center; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+        .reco-card a { text-decoration: none; color: inherit; }
+        .reco-name { font-weight: 600; font-size: 13px; margin: 8px 0 4px; }
+        .reco-sim { font-size: 12px; color: #6b7280; }
+        .reviews-section { margin: 30px 0; }
+        .review-filter { margin: 16px 0; }
+        .review-filter button { padding: 8px 12px; background: #e5e7eb; border: none; border-radius: 4px; cursor: pointer; margin-right: 8px; }
+        .review-filter button.active { background: #111827; color: #fff; }
+        .review-list { display: flex; flex-direction: column; gap: 12px; margin: 16px 0; }
+        .review-card { background: #fff; padding: 16px; border-radius: 8px; border-left: 4px solid #e5e7eb; }
+        .review-card.suspicious { border-left-color: #fee2e2; background: #fffbfb; }
+        .review-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 8px; }
+        .review-reviewer { font-weight: 600; }
+        .review-rating { font-weight: 700; color: #fbbf24; }
+        .review-date { font-size: 12px; color: #6b7280; }
+        .review-text { color: #374151; margin: 8px 0; font-size: 14px; }
+        .review-sentiment { font-size: 12px; padding: 2px 6px; border-radius: 3px; display: inline-block; margin-top: 8px; }
+        .sentiment-positive { background: #d1fae5; color: #065f46; }
+        .sentiment-negative { background: #fee2e2; color: #991b1b; }
+        .sentiment-neutral { background: #f3f4f6; color: #374151; }
+        .review-reasons { margin-top: 8px; font-size: 12px; color: #dc2626; }
+        .reason-item { margin: 2px 0; }
+        h2 { border-bottom: 2px solid #e5e7eb; padding-bottom: 12px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>ProductLens</h1>
+            <a href="/">← Back to products</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Product Details -->
+        <div class="product-section">
+            <div class="product-image">📦</div>
+            <div class="product-info">
+                <h2>{{ product.name }}</h2>
+                <span class="category">{{ product.category }}</span>
+                <p>{{ product.description }}</p>
+                <div class="price">₹{{ product.price }}</div>
+
+                <!-- Review Summary -->
+                <div class="summary">
+                    <h3 style="margin-top: 0;">Review Summary</h3>
+                    <div class="summary-row">
+                        <span class="summary-label">Total Reviews</span>
+                        <span class="summary-value">{{ summary.total }}</span>
+                    </div>
+                    <div class="summary-row">
+                        <span class="summary-label">Average Rating</span>
+                        <span class="summary-value">{{ summary.avg_rating }}⭐</span>
+                    </div>
+                    <div class="summary-row">
+                        <span class="summary-label">Genuine Rating (filtered)</span>
+                        <span class="summary-value">{{ summary.genuine_avg_rating }}⭐</span>
+                    </div>
+                    <div class="summary-row">
+                        <span class="summary-label">Suspicious Reviews</span>
+                        <span class="summary-value">
+                            {{ summary.suspicious_count }}
+                            {% if summary.suspicious_count > 0 %}
+                                <span class="suspicious-badge">{{ ((summary.suspicious_count / summary.total) * 100) | int }}%</span>
+                            {% endif %}
+                        </span>
+                    </div>
+                    <div class="summary-row">
+                        <span class="summary-label">Sentiment Breakdown</span>
+                        <span class="summary-value">
+                            👍 {{ summary.sentiment_breakdown.get('positive', 0) }} 
+                            😐 {{ summary.sentiment_breakdown.get('neutral', 0) }}
+                            👎 {{ summary.sentiment_breakdown.get('negative', 0) }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recommendations -->
+        <div class="recommendations">
+            <h2>Similar Products You Might Like</h2>
+            {% if recommendations %}
+                <div class="reco-grid">
+                    {% for reco in recommendations %}
+                        <div class="reco-card">
+                            <a href="/product/{{ reco.id }}">
+                                <div style="font-size: 30px; margin: 8px 0;">🛍️</div>
+                                <div class="reco-name">{{ reco.name }}</div>
+                                <div class="reco-sim">Match: {{ (reco.similarity * 100) | int }}%</div>
+                                <div style="color: #111827; font-weight: 700; margin-top: 4px;">₹{{ reco.price }}</div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <p style="color: #6b7280;">No similar products found.</p>
+            {% endif %}
+        </div>
+
+        <!-- Reviews & Fake Detection -->
+        <div class="reviews-section">
+            <h2>Customer Reviews & Authenticity Analysis</h2>
+            {% if reviews %}
+                <p style="color: #6b7280; font-size: 14px;">
+                    Our AI analyzes reviews for patterns like same-day bursts, generic text reuse, excessive hype language, and more to identify suspicious/fake reviews.
+                </p>
+                <div class="review-filter">
+                    <button class="active" onclick="filterReviews('all')">All Reviews ({{ reviews | length }})</button>
+                    <button onclick="filterReviews('suspicious')">🚨 Suspicious ({{ reviews | selectattr('is_suspicious') | list | length }})</button>
+                    <button onclick="filterReviews('genuine')">✓ Genuine ({{ reviews | rejectattr('is_suspicious') | list | length }})</button>
+                </div>
+
+                <div class="review-list" id="review-list">
+                    {% for review in reviews %}
+                        <div class="review-card {% if review.is_suspicious %}suspicious{% endif %}" data-type="{% if review.is_suspicious %}suspicious{% else %}genuine{% endif %}">
+                            <div class="review-header">
+                                <div>
+                                    <div class="review-reviewer">{{ review.reviewer }}</div>
+                                    <div class="review-date">{{ review.date }}</div>
+                                </div>
+                                <div>
+                                    <span class="review-rating">
+                                        {% for i in range(review.rating) %}⭐{% endfor %}
+                                    </span>
+                                    {% if review.is_suspicious %}
+                                        <div style="color: #dc2626; font-weight: 600; font-size: 12px; margin-top: 4px;">SUSPICIOUS (Score: {{ review.suspicion_score }})</div>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            <div class="review-text">"{{ review.text }}"</div>
+                            <span class="review-sentiment sentiment-{{ review.sentiment }}">{{ review.sentiment.upper() }}</span>
+                            {% if review.reasons %}
+                                <div class="review-reasons">
+                                    <strong>⚠️ Red flags:</strong>
+                                    {% for reason in review.reasons %}
+                                        <div class="reason-item">• {{ reason }}</div>
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <p style="color: #6b7280;">No reviews yet for this product.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        function filterReviews(type) {
+            const cards = document.querySelectorAll('.review-card');
+            cards.forEach(card => {
+                if (type === 'all') {
+                    card.style.display = 'block';
+                } else if (type === 'suspicious') {
+                    card.style.display = card.dataset.type === 'suspicious' ? 'block' : 'none';
+                } else if (type === 'genuine') {
+                    card.style.display = card.dataset.type === 'suspicious' ? 'none' : 'block';
+                }
+            });
+            document.querySelectorAll('.review-filter button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>
